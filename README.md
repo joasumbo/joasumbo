@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="center">João Sumbo</h1>
 
-<!--
-**joasumbo/joasumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Software Engineer • Technical Lead • Solution Architect</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building scalable enterprise software, cloud platforms and AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Software Engineer with experience in enterprise software development, software architecture and technical leadership.
+
+I specialize in building scalable applications, designing robust architectures and integrating complex business systems using modern technologies and cloud-native approaches.
+
+My professional journey includes projects in banking, telecommunications, education, SaaS platforms, ERP systems and digital transformation initiatives.
+
+---
+
+## Current Focus
+
+- Enterprise Software Development
+- Software Architecture
+- Artificial Intelligence
+- Cloud Computing
+- System Integrations
+- Workflow Automation
+- SaaS Platforms
+- Technical Leadership
+
+---
+
+## Tech Stack
+
+### Frontend
+
+```text
+Angular
+React
+Next.js
+TypeScript
+JavaScript
+HTML5
+CSS3
+Tailwind CSS
+Bootstrap
