@@ -23,9 +23,9 @@
 
 ## About Me
 
-I am a Software Engineer specializing in enterprise software development, modern architecture, and technical leadership[cite: 1]. My focus lies in designing scalable applications, building robust cloud-native architectures, and integrating complex business systems[cite: 1].
+I am a Software Engineer specializing in enterprise software development, modern architecture, and technical leadership. My focus lies in designing scalable applications, building robust cloud-native architectures, and integrating complex business systems.
 
-My professional journey includes high-impact projects in Banking, Telecommunications, Education, SaaS Platforms, ERP Systems, and Digital Transformation Initiatives[cite: 1].
+My professional journey includes high-impact projects in Banking, Telecommunications, Education, SaaS Platforms, ERP Systems, and Digital Transformation Initiatives.
 
 ---
 
@@ -58,37 +58,37 @@ My professional journey includes high-impact projects in Banking, Telecommunicat
 
 ### AI & Vector Search
 <p>
-  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_&_Gemini-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_&_Gemini-412991?style=for-the-badge" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=000&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=000&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge" />
 </p>
 
 ### Backend & Cloud Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" />
 </p>
 
 ---
 
-## Key Metrics & Badges
+## Key Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Scalable_Enterprise_Architectures-0055FF?style=for-the-badge" />
