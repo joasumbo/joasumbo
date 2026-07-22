@@ -1,5 +1,5 @@
 <h1 align="center">
-  João Sumbo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+  João Sumbo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Building scalable enterprise software, cloud platforms, and AI-powered solutions.</i>
+  Building scalable enterprise software, cloud platforms, and AI-powered solutions.
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
-I am a **Software Engineer** specializing in enterprise software development, modern architecture, and technical leadership[cite: 1]. My focus lies in designing scalable applications, building robust cloud-native architectures, and integrating complex business systems[cite: 1].
+I am a Software Engineer specializing in enterprise software development, modern architecture, and technical leadership[cite: 1]. My focus lies in designing scalable applications, building robust cloud-native architectures, and integrating complex business systems[cite: 1].
 
-My professional journey includes high-impact projects in **Banking, Telecommunications, Education, SaaS Platforms, ERP Systems**, and **Digital Transformation Initiatives**[cite: 1].
+My professional journey includes high-impact projects in Banking, Telecommunications, Education, SaaS Platforms, ERP Systems, and Digital Transformation Initiatives[cite: 1].
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ My professional journey includes high-impact projects in **Banking, Telecommunic
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### AI & Vector Search
 <p>
@@ -88,9 +88,9 @@ My professional journey includes high-impact projects in **Banking, Telecommunic
 
 ---
 
-## 📈 GitHub Activity
+## Key Metrics & Badges
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=joasumbo&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstme-exprofile.vercel.app/api?username=joasumbo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Enterprise_Architectures-0055FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-AI_&_Generative_Systems-8A2BE2?style=for-the-badge" />
 </p>
